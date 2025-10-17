@@ -1,0 +1,49 @@
+/* General page styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  color: #333;
+}
+
+/* Header styling */
+header {
+  background-color: #0078d7;
+  color: white;
+  padding: 20px 0;
+}
+
+/* Image styling */
+img {
+  border-radius: 10px;
+  margin-top: 10px;
+  width: 400px;
+  height: 200px;
+}
+
+/* Button styling */
+button {
+  background-color: #0078d7;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 15px;
+}
+
+button:hover {
+  background-color: #005fa3;
+}
+
+/* Footer styling */
+footer {
+  background-color: #222;
+  color: white;
+  padding: 10px;
+  margin-top: 20px;
+}
+ 
